@@ -1,5 +1,5 @@
 # DockerTest
-Amac: Dotnet core uygulamasini docker ile yayina almak.
+Amac: Github'da barinanan dotnet core uygulamasini docker ile yayina almak.
 Proje kodlari: Hazir gelen asp.net core mvc projesidir.
 - kodu build ediniz.
 
