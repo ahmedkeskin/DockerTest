@@ -9,5 +9,5 @@ Github a push ediniz.
 
 dockerfile dosyasini build ediniz. > docker build d:\AhmedKeskin\ProjectsSoftware\DockerTest\DockerTest
 
-cikan image dosyasini run ediniz. > docker run -d -p 8087:80  39e5668d82e5
+cikan image dosyasini run ediniz. > docker run -d -p 8087:80  39e5668d82e5 (Son kelime image id oldugu icin sizde farkli bir id olabilir.)
 
